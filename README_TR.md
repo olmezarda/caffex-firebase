@@ -32,20 +32,18 @@ Bu uygulama, **Firebase backend kullanılarak** uçtan uca mobil uygulama geliş
 
 1. Depoyu klonlayın:
 
-git clone https://github.com/olmezarda/caffex-firebase.git
-cd repository 
+- git clone https://github.com/olmezarda/caffex-firebase.git
+- cd repository 
 
 2. Bağımlılıkları yükleyin
 
-flutter pub get
+- flutter pub get
 
 3. Firebase yapılandırması:
 
-Firebase Console üzerinden bir proje oluşturun.
-
-Android uygulamanızı paket adı ile (örneğin com.example.caffex) ekleyin.
-
-google-services.json dosyasını indirip android/app/ klasörüne koyun.
+- Firebase Console üzerinden bir proje oluşturun.
+- Android uygulamanızı paket adı ile (örneğin com.example.caffex) ekleyin.
+- google-services.json dosyasını indirip android/app/ klasörüne koyun.
 
 4. Uygulamayı Android cihazda veya emülatörde çalıştırın:
 
