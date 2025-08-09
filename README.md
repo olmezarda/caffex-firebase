@@ -42,11 +42,9 @@ This app is designed to practice and demonstrate full-stack mobile app developme
 3. Configure Firebase
 
 - Create a project in the Firebase Console.
-
 - Add your Android app with the package name (e.g., com.example.caffex).
-
 - Download the google-services.json file and place it in the android/app/ folder.
-
+  
 4. Run the app on an Android device or emulator:
 
 - flutter run
