@@ -32,7 +32,7 @@ Bu uygulama, **Firebase backend kullanılarak** uçtan uca mobil uygulama geliş
 
 1. Depoyu klonlayın:
 
-git clone https://github.com/kullaniciAdi/repository.git
+git clone https://github.com/olmezarda/caffex-firebase.git
 cd repository 
 
 2. Bağımlılıkları yükleyin
