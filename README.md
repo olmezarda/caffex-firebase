@@ -32,7 +32,7 @@ This app is designed to practice and demonstrate full-stack mobile app developme
 
 1. Clone the repository:
 
-- git clone https://github.com/username/repository.git
+- git clone https://github.com/olmezarda/caffex-firebase.git
 - cd repository
 
 2. Install dependencies:
